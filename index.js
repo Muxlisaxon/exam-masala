@@ -15,7 +15,7 @@
 
 
 
-1) function hisobla(i) {
+ 1)function hisobla(i) {
     for (let i = 0; i < 10; i = i + 2) {
         return i++
     }
@@ -23,7 +23,7 @@
 
 
 2) var arr = [10, 5, 20, 8, 15]
-console.log(arr.Math.max)
+console.log(arr.Math.max())
 
 
 
